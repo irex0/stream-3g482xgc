@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "id": "7f0a8404-6b33-488f-96fd-29d09b6e5275",
+    "title": "Jagadhatri 19th January 2026 Episode 70",
+    "description": "",
+    "date": "2026-01-19T07:45:29.814Z",
+    "playlist": "videos/7f0a8404-6b33-488f-96fd-29d09b6e5275/playlist.m3u8",
+    "thumbnail": "videos/7f0a8404-6b33-488f-96fd-29d09b6e5275/thumb.jpg"
+  },
+  {
     "id": "26cc2bb8-c551-4523-98a8-699217f37196",
     "title": "Jagadhatri 18th January 2026 Episode 69",
     "description": "",
